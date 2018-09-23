@@ -9,3 +9,7 @@ In the introductory JavaScript courses, you will create JavaScript programs that
 
 ## Why learn JavaScript?
 JavaScript is the language of the web. You can use it to add dynamic behavior, store information, and handle requests and responses on a website. The concepts covered in these courses lay the foundation for adding this behavior.
+
+# TODO list
+- [x] Index page with links to projects
+- [ ] Create separate pages for projects 
