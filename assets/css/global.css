@@ -1,0 +1,44 @@
+/*
+** GLOBAL Header
+*/
+.global-nav-bar {
+	background-color: #5E35B1;
+}
+
+/*
+** Project article
+*/
+.projects .col {
+	height: 350px;
+	padding: 0;
+
+    background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.projects .col .overlay {
+	display: none;
+
+	cursor: pointer;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.65);
+}
+
+.overlay .name-project {
+	text-align: center;
+	color: #fff;
+	font-size: 2rem;
+
+	padding-top: 80px;
+}
+
+.overlay .description-project {
+    color: #fff;
+    font-style: italic;
+    font-size: 0.9rem;
+    text-align: center;
+    padding-top: 25px;
+}
